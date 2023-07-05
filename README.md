@@ -28,3 +28,15 @@ This is a repository of a shooting game run on a Raspberry Pi based on Unity 3D.
 
 4. Install the game and enjoy it.
 
+## Screenshot
+
+<img src="./asset/light.jpg" alt="light" style="width:50%;" />
+
+<img src="./asset/night.jpg" style="width:50%;" />
+
+<img src="./asset/side.jpg" style="width:50%;" />
+
+<img src="./asset/top.jpg" style="width:50%;" />
+
+
+
